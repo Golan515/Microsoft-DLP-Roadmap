@@ -65,3 +65,20 @@ DLP Plan
 https://learn.microsoft.com/en-us/purview/dlp-overview-plan-for-dlp
 
 
+lautum ssam DLP Implementation
+SSN, Bank etc
+
+diehpec
+Tagging
+
+
+reyaB
+IP
+email
+USB drive
+departing user activity
+
+ekin
+crown jewels
+
+
