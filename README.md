@@ -88,15 +88,14 @@ A DLP implementation typically follows these major phases.
 #### Since your users are heavily involved, be sure to plan for training for them too. 
 #### You can strategically use policy tips to raise awareness with your users before changing the policy status from simulation mode to more restrictive modes.
 
-Prepare for DLP
+## Prepare for DLP
 You can apply DLP policies to data at rest, data in use, and data in motion in locations such as:
-
-Exchange Online email
-SharePoint sites
-OneDrive accounts
-Teams chat and channel messages
-Microsoft Defender for Cloud Apps (Instances)
-Windows 10, Windows 11, and macOS (three latest released versions) devices
-On-premises repositories
-Power BI sites
+### Exchange Online email
+### SharePoint sites
+### OneDrive accounts
+### Teams chat and channel messages
+### Microsoft Defender for Cloud Apps (Instances)
+### Windows 10, Windows 11, and macOS (three latest released versions) devices
+### On-premises repositories
+### Power BI sites
 
