@@ -99,3 +99,26 @@ You can apply DLP policies to data at rest, data in use, and data in motion in l
 ### On-premises repositories - repository file path
 ### Power BI sites - workspaces
 
+Deploy your policies in production
+Design your policies
+Start by defining your control objectives, and how they apply across each respective workload. Draft a policy that embodies your objectives. Feel free to start with one workload at a time, or across all workloads - there's no impact yet. For more information, see Create and deploy data loss prevention policies.
+
+Implement policy in simulation mode
+Evaluate the impact of the controls by implementing them with a DLP policy in simulation mode. Actions defined in a policy aren't applied while the policy is in simulation mode. It's ok to apply the policy to all workloads in simulation mode, so that you can get the full breadth of results, but you can start with one workload if you need to. For more information, see Policy Deployment.
+
+Monitor outcomes and fine-tune the policy
+While in simulation mode, monitor the outcomes of the policy and fine-tune it so that it meets your control objectives while ensuring you aren't adversely or inadvertently impacting valid user workflows and productivity. Here are some examples of things to fine-tune:
+
+adjusting the locations and people/places that are in or out of scope
+tune the conditions that are used to determine if an item and what is being done with it matches the policy
+the sensitive information definition/s
+add new controls
+add new people
+add new restricted apps
+add new restricted sites
+ Note
+
+Stop processing more rules doesn't work in simulation mode, even when it's turned on.
+
+Enable the control and tune your policies
+Once the policy meets all your objectives, turn it on. Continue to monitor the outcomes of the policy application and tune as needed.
