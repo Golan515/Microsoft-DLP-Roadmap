@@ -68,9 +68,9 @@ https://learn.microsoft.com/en-us/purview/dlp-overview-plan-for-dlp
 # DLP lifecycle
 A DLP implementation typically follows these major phases.
 
-## Plan for DLP
-##  Prepare for DLP
-##  Deploy your policies in production
+##### Plan for DLP
+##### Prepare for DLP
+##### Deploy your policies in production
 
 ## Plan for DLP
 ### Technology planning for DLP
@@ -87,4 +87,16 @@ A DLP implementation typically follows these major phases.
 #### A successful DLP implementation is as much dependent on getting your users trained and acclimated to data loss prevention practices as it is on well planned and tuned policies. 
 #### Since your users are heavily involved, be sure to plan for training for them too. 
 #### You can strategically use policy tips to raise awareness with your users before changing the policy status from simulation mode to more restrictive modes.
+
+Prepare for DLP
+You can apply DLP policies to data at rest, data in use, and data in motion in locations such as:
+
+Exchange Online email
+SharePoint sites
+OneDrive accounts
+Teams chat and channel messages
+Microsoft Defender for Cloud Apps (Instances)
+Windows 10, Windows 11, and macOS (three latest released versions) devices
+On-premises repositories
+Power BI sites
 
