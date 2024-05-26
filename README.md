@@ -90,12 +90,12 @@ A DLP implementation typically follows these major phases.
 
 ## Prepare for DLP
 You can apply DLP policies to data at rest, data in use, and data in motion in locations such as:
-### Exchange Online email
-### SharePoint sites
-### OneDrive accounts
-### Teams chat and channel messages
-### Microsoft Defender for Cloud Apps (Instances)
-### Windows 10, Windows 11, and macOS (three latest released versions) devices
-### On-premises repositories
-### Power BI sites
+### Exchange Online email - distribution groups
+### SharePoint sites - sites
+### OneDrive accounts - accounts or distribution groups
+### Teams chat and channel messages - account or distribution group
+### Microsoft Defender for Cloud Apps (Instances) 
+### Windows 10, Windows 11, and macOS (three latest released versions) devices - user or group
+### On-premises repositories - repository file path
+### Power BI sites - workspaces
 
