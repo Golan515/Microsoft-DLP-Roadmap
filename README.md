@@ -65,20 +65,26 @@ DLP Plan
 https://learn.microsoft.com/en-us/purview/dlp-overview-plan-for-dlp
 
 
-lautum ssam DLP Implementation
-SSN, Bank etc
+# DLP lifecycle
+A DLP implementation typically follows these major phases.
 
-diehpec
-Tagging
+## Plan for DLP
+##  Prepare for DLP
+##  Deploy your policies in production
 
+## Plan for DLP
+### Technology planning for DLP
+#### Keep in mind that DLP as a technology can monitor and protect your data at rest, data in use and data in motion. 
+#### There are planning implications for the different locations, the type of data you want to monitor and protect, and the actions to be taken when a policy match occurs.
 
-reyaB
-IP
-email
-USB drive
-departing user activity
+###  Business processes planning for DLP
+#### DLP policies can block users from performing prohibited activities, like inappropriate sharing of sensitive information via email.
+#### As you plan your DLP policies, you must identify the business processes that touch your sensitive items. 
+#### The business process owners can help you identify appropriate user behaviors that should be allowed and inappropriate user behaviors that should be protected against. 
+#### You should plan your policies and deploy them in simulation mode, and evaluate their impact, before running them in more restrictive modes.
 
-ekin
-crown jewels
-
+### Organizational culture planning for DLP
+#### A successful DLP implementation is as much dependent on getting your users trained and acclimated to data loss prevention practices as it is on well planned and tuned policies. 
+#### Since your users are heavily involved, be sure to plan for training for them too. 
+#### You can strategically use policy tips to raise awareness with your users before changing the policy status from simulation mode to more restrictive modes.
 
